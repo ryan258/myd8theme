@@ -1,0 +1,5 @@
+name: My Drupal 8 Theme
+type: theme
+description: Just discovering the beauty of Drupal 8 theming.
+core: 8.x
+screenshot: myd8theme.png
