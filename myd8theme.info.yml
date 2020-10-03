@@ -1,0 +1,6 @@
+name: My Drupal 8 Theme
+type: theme
+description: "A theme for the ages! Or for at least as long Drupal 8 is still the main version..."
+core: 8.x
+base theme: classy
+screenshot: screenshot.png
