@@ -14,4 +14,4 @@ regions:
 
 libraries:
   - myd8theme/global-css
-  - myd8theme/pacifico
+  # - myd8theme/pacifico
