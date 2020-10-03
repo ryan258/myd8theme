@@ -4,3 +4,8 @@ description: "A theme for the ages! Or for at least as long Drupal 8 is still th
 core: 8.x
 base theme: classy
 screenshot: screenshot.png
+
+libraries:
+  - myd8theme/myd8theme-css
+  - myd8theme/quicksand
+  - core/normalize
