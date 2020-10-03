@@ -6,6 +6,7 @@ screenshot: myd8theme.png
 
 regions:
   header: Header
+  myd8thememenu: Navigation
   content: Content
   sidebar_first: Sidebar First
   footer: Footer
