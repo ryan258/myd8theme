@@ -1,8 +1,8 @@
 myd8theme-css:
   version: 1.0
-    css:
-      base:
-        css/base/styles.css: {}
+  css:
+    base:
+      css/base/styles.css: {}
 
 quicksand:
   license:
